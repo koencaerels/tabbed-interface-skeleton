@@ -1,7 +1,11 @@
 # Tabbed based interface skeleton for VueJS
 
-    "element-ui": "^2.13.0",
-    "vue-tabs-chrome": "^0.5.1",
+Based on Element UI
+— https://element.eleme.io/#/en-US
+
+And this little module with draggable tabs.
+— https://github.com/viewweiwu/vue-tabs-chrome
+
 
 ## Project setup
 ```
